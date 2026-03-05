@@ -1,5 +1,8 @@
 name: gerar animação de cobra
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
   schedule:
